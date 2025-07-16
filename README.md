@@ -21,7 +21,7 @@ This project features an interactive Tableau dashboard designed to analyze the s
 - Contains order-level data including sales, profits, returns, product categories, customer segments, and regions.
 
 ## 📌 Dashboard Preview
-![Dashboard Preview 1]([Dashboard%20preview%201.png](https://github.com/Swapnil0895/Superstore-Sales-and-Customer-Retention-Analysis---Tableau/blob/main/Tableau%20Dashboard%20Screenshot.png))
+![Dashboard Preview](https://github.com/Swapnil0895/Superstore-Sales-and-Customer-Retention-Analysis---Tableau/blob/main/Tableau%20Dashboard%20Screenshot.png?raw=true)
 
 
 ## 🚀 Live Dashboard
