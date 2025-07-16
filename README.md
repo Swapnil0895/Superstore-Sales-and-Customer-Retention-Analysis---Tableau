@@ -1,4 +1,4 @@
-# Superstore-Sales-and-Customer-Retention-Analysis---Tableau# Tableau Sales Performance Dashboard | Superstore Analysis
+# Tableau Sales Performance Dashboard | Superstore Analysis
 
 This project features an interactive Tableau dashboard designed to analyze the sales performance of a retail business using the well-known Superstore dataset. It provides insights into sales trends, regional and segment-wise performance, product category contributions, and key profitability metrics.
 
